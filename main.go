@@ -4,7 +4,6 @@ import (
 	"flag"
 	"sort"
 	"path/filepath"
-	//"io/ioutil"
 	"strconv"
 	"strings"
 	"os"
